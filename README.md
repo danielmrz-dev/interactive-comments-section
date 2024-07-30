@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/interactive-comments-section-built-w-typescript-and-sass-wpSrOhYx7p)
+- Live Site URL: [Link](https://danielmrz-dev.github.io/interactive-comments-section/)
 
 ## My process
 
